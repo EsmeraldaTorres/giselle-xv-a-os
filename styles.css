@@ -736,7 +736,7 @@ button:hover {
   width: 50%;
 }
 .window-regalos {
-  height: 100vh;
+  height: max-content;
   max-width: 100%;
   background-image: linear-gradient(rgb(5 7 12 / 51%), rgb(5 7 12 / 49%)),
     url("./assets/images/fondo-regalo.png");
