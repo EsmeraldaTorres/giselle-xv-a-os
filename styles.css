@@ -378,9 +378,14 @@ hr {
   background-position: right;
 }
 .align-name {
-  align-items: end;
+  align-items: center;
   height: 100vh;
   padding-bottom: 9rem;
+}
+.desliza {
+  position: absolute;
+  bottom: 0;
+  color: white;
 }
 .window-back2 {
   height: 100vh;
